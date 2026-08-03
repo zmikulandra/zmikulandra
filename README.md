@@ -8,6 +8,10 @@ Over the past year, I have been independently learning Android development and b
 
 ### SoundID – Mobile Multitrack Audio Recorder
 
+[View the SoundID portfolio repository](https://github.com/zmikulandra/SoundID-Portfolio)
+
+SoundID is a long-term independent Android project featuring multitrack recording, synchronized playback, waveform editing, project persistence, audio export, structured testing documentation, and selected public code samples.
+
 SoundID is an Android application designed for quickly recording, arranging, editing, and exporting musical ideas.
 
 The application currently includes:
