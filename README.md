@@ -1,57 +1,27 @@
-# Hi, I'm Zvonimir 👋
+# Zvonimir Mikulandra
 
-I am a transport engineer transitioning into software development and Quality Assurance.
+**AI workflow design · Generative AI for games · Automation · Game QA**
 
-Over the past year, I have been independently learning Android development and building **SoundID**, a multitrack audio recording and editing application for Android.
+I research and compare AI technologies, select tools for practical project needs, and connect them into repeatable workflows for game production and application development. I define requirements, organize the work, investigate problems, and review results.
 
-## 🔭 Current project
+I am seeking opportunities as an **AI Producer**, **AI Workflow Specialist**, or in **Game QA / AI Automation**.
 
-### SoundID – Mobile Multitrack Audio Recorder
+## Featured projects
 
-[View the SoundID portfolio repository](https://github.com/zmikulandra/SoundID-Portfolio)
+### [Illyricum: The Land Remembers — AI Workflow Portfolio](https://github.com/zmikulandra/Illyricum-AI-Workflow)
 
-SoundID is a long-term independent Android project featuring multitrack recording, synchronized playback, waveform editing, project persistence, audio export, structured testing documentation, and selected public code samples.
+My main case study in **AI-assisted game production**: choosing generative 3D tools, organizing cloud generation and asset preparation, coordinating Blender and Unreal Engine checks, and maintaining asset records. Generated models remain candidates until the required reviews are complete.
 
-SoundID is an Android application designed for quickly recording, arranging, editing, and exporting musical ideas.
+### [SoundID — AI-assisted Application Development](https://github.com/zmikulandra/SoundID-Portfolio)
 
-The application currently includes:
+An Android multitrack recorder and audio editor. I manage development through product requirements, focused AI-agent tasks, troubleshooting, test scenarios, and review of changes across the interface, audio, and storage workflows.
 
-* Multitrack audio recording and synchronized playback
-* Waveform timeline with zoom and navigation
-* Trim, cut, silence, insert, and loop functions
-* Track mute, solo, gain, and pan controls
-* Metronome during recording, playback, and export
-* Project saving and recording library
-* WAV and AAC audio export
-* Google Play closed testing
+## Tools in my workflows
 
-## 🛠️ Technologies and tools
+**ComfyUI · TRELLIS.2 · Hunyuan3D · Tripo · Blender · Unreal Engine · Cloud GPU · OpenAI Codex · PostgreSQL · Git and GitHub**
 
-* Kotlin
-* Jetpack Compose
-* Android Studio
-* AudioRecord and AudioTrack
-* Git and GitHub
-* Google Play Console
-* Manual and regression testing
-* Bug reproduction and troubleshooting
+## How I contribute
 
-## 🌱 Currently learning
+**AI coding agents, including OpenAI Codex, implement code, tests, and automation under my direction.** My contribution is product and workflow coordination: choosing an approach, setting constraints, directing iterations, and deciding what needs revision or further evidence.
 
-* Software testing methodologies
-* Test-case design and documentation
-* API testing
-* SQL
-* Automated testing
-* Android application architecture
-
-## 🎯 Career focus
-
-I am currently looking for an opportunity to start my professional IT career in:
-
-* Junior Quality Assurance
-* Mobile application testing
-* Junior Android development
-* Technical support with testing responsibilities
-
-I bring experience in customer service and technical support, strong analytical thinking, persistence, and practical experience developing and testing a complex Android application.
+Both portfolios describe independent projects in development, with clear limits on what has been validated.
